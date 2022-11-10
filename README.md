@@ -6,8 +6,4 @@ At NeuraLeaps we're aiming to seamlessly develop and enhance custom AI component
 
 #
 
-
-### Contributors
-<a href="https://github.com/Neural-Leaps-Unlimited/homepage/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Neural-Leaps-Unlimited/homepage" />
-</a>
+[Website](https://www.neuraleaps.com)
