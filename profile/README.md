@@ -16,12 +16,12 @@ Here you'll find all the code/visual resources used within the Neural Bits artic
 **To ensure smooth navigation** throughout the repositories, check the following table: 🔽
 
 | Module | Description | Resources |
-|--------|-------------|----------|
+|--------|-------------|---------------|
 | Deep Learning | Hub for various deep learning tutorials, notebooks, and exercises. | |
 | Computer Vision | Projects on Computer Vision, including Object Detection, Object Segmentation, Classification and more| |
-| Vision Generative AI| Projects & Concepts on Visual Large Models| |
-| Optimisation Techniques| Tutorials and concepts on model quantization, calibration, and other techniques. | |
-| Production Deployments| Tutorials and concepts on model quantization, calibration, and other techniques. | |
+| Vision Generative AI| Projects & Concepts on Large Vision Models| |
+| Large Language Models & RAGs| Tutorials and courses on building LLM/RAG-powered applications. | |
+| Production Deployments| Tutorials and concepts on efficient model optimization for production environments. | 🚀 [Production Hub](https://github.com/neural-bits/deep-learning-resources.git)|
 | MLOps| Practical MLOps applied to data-intensive deep learning systems | |
 
 the contents of which will be updated frequently.
