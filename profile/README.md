@@ -18,7 +18,7 @@ Here you'll find all the code/visual resources used within the Neural Bits artic
 | Module | Description | Resources |
 |--------|-------------|---------------|
 | Deep Learning | Hub for various deep learning tutorials, notebooks, and exercises. | |
-| Computer Vision | Projects on Computer Vision, including Object Detection, Object Segmentation, Classification and more| |
+| Computer Vision | Projects on Computer Vision, including Object Detection, Object Segmentation, Classification and more| 🚀 [Computer Vision Hub](https://github.com/neural-bits/computer-vision-hub)|
 | AI Programming Languages | Tutorials on AI Programming Languages (Mojo, Triton, JAX, JIT, Numba, Cython) | 🚀 [AI Programming Hub](https://github.com/neural-bits/ai-programming-hub)|
 | Generative AI| Tutorials and courses on building LLM/VLM/RAG-powered applications. | |
 | Production Deployments| Tutorials and concepts on efficient model optimization for production environments. | 🚀 [Production Hub](https://github.com/neural-bits/deep-learning-resources.git)|
