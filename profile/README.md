@@ -7,7 +7,7 @@
 
 
 ----
-## The Neural Bits Center
+## Neural Bits Code Repository
 Here you'll find all the code/visual resources used within the Neural Bits articles and end-to-end courses.
 
 >#### Not a member? Make sure you stay in the loop, <a href="https://neuralbits.substack.com/subscribe">Subscribe Here 🚀
