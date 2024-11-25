@@ -10,11 +10,18 @@
 ## Neural Bits Code Repository
 Here you'll find all the code/visual resources used within the Neural Bits articles and end-to-end courses.
 
->#### Not a member? Make sure you stay in the loop, <a href="https://neuralbits.substack.com/subscribe">Subscribe Here 🚀
-<br>
+>#### Not a member? Subscribe Here 🚀 <a href="https://neuralbits.substack.com/subscribe">
+<be>
 
+#### Categories
 **To ensure smooth navigation** throughout the repositories, check the following table: 🔽
+##### Complete Courses
+| Topic | Description | Source |
+|--------|-------------|---------------|
+| End-to-End Vision System | A complex system including data pipelines, annotation, QAs, MLOps, Model Distillation, Finetuning, Optimizing, Evaluating, Deploying and Monitoring, following best MLOps Practices| Soon |
+| Multi-Modal RAG System | A complex system solving a real-world problem using multiple modalities, LLMs, RAG, LLMOps and more | Soon |
 
+##### Per Category
 | Module | Description | Resources |
 |--------|-------------|---------------|
 | Deep Learning | Hub for various deep learning tutorials, notebooks, and exercises. | |
