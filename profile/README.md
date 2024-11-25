@@ -10,7 +10,7 @@
 ## Neural Bits Code Repository
 Here you'll find all the code/visual resources used within the Neural Bits articles and end-to-end courses.
 
->#### Not a member? Subscribe Here 🚀 <a href="https://neuralbits.substack.com/subscribe">
+>#### Not a member? <a href="https://neuralbits.substack.com/subscribe"> Subscribe 🚀</a>
 <be>
 
 #### Categories
