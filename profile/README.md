@@ -1,16 +1,41 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 ---
-
-<p align="center"><img src="https://github.com/neural-bits/.github/blob/main/media/neuralbits_banner.png?raw=true"></p>
-
-<h4 align="center">Central Repository for code & tutorial resources that accompany the newsletter articles.</h4>
-
+<p align="center"><img src="../media/[Git][Banner][Center]-SmallHeader.png"></p>
+<p align="center"><i class="fa-regular fa-bell"></i> Subscribe to the <a href="https://neuralbits.substack.com/"><img src="../media/[WhiteLogo][Subscribe]-Newsletter.png" style="height: 1.5em; vertical-align: middle;"></a> and learn</p>
+<div style="background-color: #FFD00315; border-radius:5px; display: flex; justify-content: center;">
+    <h4 style="font-family: Work Sans; height:auto;width: auto;" align="center"><span style="font-weight: 400;">How to build</span>
+        <span style="font-weight: 800;">Complex AI Systems</span>
+        <span style="font-weight: 400;">in the Real World! </span>
+    </h4>
+</div>
+<div>
+    <img href="https://img.shields.io/static/v1?label&logo=kubernetes&message=Kubernetes&style=for-the-badge&color=black"/> 
+</div>
 
 ----
-## Neural Bits Code Repository
-Here you'll find all the code/visual resources used within the Neural Bits articles and end-to-end courses.
+<h2 style="font-family: Work Sans; font-weight: 700;"> Welcome to Neural Bits</h2>
 
->#### Not a member? <a href="https://neuralbits.substack.com/subscribe"> Subscribe 🚀</a>
+Neural Bits is not an yet another Technical Newsletter on AI that's sharing news and promotes the AI hype. **We stay practical.**
+
+My name is Alex, I'm the founder and writer of the NeuralBits Newsletter.
+
+Throughout my ~10 year career in Deep Learning and AI, working across Applied AI Research, Engineering and Operations I've gathered expert insights on what AI is and how to build reliable AI Systems.
+
+<div style="background-color: #24C19620; border-radius:5px; display: flex; justify-content: left; width: 38em">
+    <p style="font-family: Work Sans;margin: 1em;font-weight: 500;"> <i class="fa-regular fa-comment"></i> My main goal is to distill and share that with aspiring AI Engineers! </p>
+</div>
+
+s
+
+
+>#### How ? 
+
+
+
+<a  href="https://neuralbits.substack.com/subscribe"> Subscribe 🚀</a>
 <be>
 
 #### Categories
