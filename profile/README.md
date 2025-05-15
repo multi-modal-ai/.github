@@ -2,9 +2,22 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
----
-<p align="center"><img src="../media/[Git][Banner][Center]-SmallHeader.png"></p>
-<p align="center"><i class="fa-regular fa-bell"></i> Subscribe to the <a href="https://neuralbits.substack.com/"><img src="../media/[WhiteLogo][Subscribe]-Newsletter.png" style="height: 1.5em; vertical-align: middle;"></a> and learn</p>
+<p align="center"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[Git][Blue][Banner][Center]-EmailHeader.png"></p>
+
+
+
+<div align="center">
+   <p align="center">
+  <span><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/bell.svg" width="25px" height="25px" alt="Bell Icon"/></span>
+  <span>
+    Subscribe to the <a href="https://neuralbits.substack.com/"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[WhiteLogo][Subscribe]-Newsletter.png" style="height: 30px;"></a> and learn
+  </span>
+    </p>
+</div>
+
+
+    
+
 <div style="background-color: #FFD00315; border-radius:5px; display: flex; justify-content: center;">
     <h4 style="font-family: Work Sans; height:auto;width: auto;" align="center"><span style="font-weight: 400;">How to build</span>
         <span style="font-weight: 800;">Complex AI Systems</span>
