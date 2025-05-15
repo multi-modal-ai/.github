@@ -1,57 +1,46 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
 <p align="center"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[Git][Blue][Banner][Center]-EmailHeader.png"></p>
 
-
+<div align="center">
+  <h1>Welcome to Neural Bits</h1>
+  <h3>Your go-to educational hub to learn, develop, and deploy AI Systems for the Cloud or Edge.</h3>
+   <p align="center">
+     <span>
+     <a href="https://neuralbits.substack.com/"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[ShortText][Banner].png" width="auto" height="20px"/></a>
+     </span>
+ </p>
+</div>
 
 <div align="center">
-   <p align="center">
-  <span><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/bell.svg" width="25px" height="25px" alt="Bell Icon"/></span>
-  <span>
-    Subscribe to the <a href="https://neuralbits.substack.com/"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[WhiteLogo][Subscribe]-Newsletter.png" style="height: 30px;"></a> and learn
-  </span>
-    </p>
+   
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=gray)](https://neuralbits.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=Message_Me&style=for-the-badge&color=gray)](https://www.linkedin.com/in/arazvant/)
+[![](https://img.shields.io/static/v1?label&logo=youtube&message=Courses&style=for-the-badge&color=gray)](https://neuralbits.substack.com/p/courses)
 </div>
 
+---
 
-    
+<h2><span><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/handshake.svg" width="30px"/></span> What you'll find here</h2>
 
-<div style="background-color: #FFD00315; border-radius:5px; display: flex; justify-content: center;">
-    <h4 style="font-family: Work Sans; height:auto;width: auto;" align="center"><span style="font-weight: 400;">How to build</span>
-        <span style="font-weight: 800;">Complex AI Systems</span>
-        <span style="font-weight: 400;">in the Real World! </span>
-    </h4>
-</div>
-<div>
-    <img href="https://img.shields.io/static/v1?label&logo=kubernetes&message=Kubernetes&style=for-the-badge&color=black"/> 
-</div>
-
-----
-<h2 style="font-family: Work Sans; font-weight: 700;"> Welcome to Neural Bits</h2>
-
-Neural Bits is not an yet another Technical Newsletter on AI that's sharing news and promotes the AI hype. **We stay practical.**
+Neural Bits is not yet another Technical Newsletter on AI that shares news and promotes the AI hype. **We stay practical.**
 
 My name is Alex, I'm the founder and writer of the NeuralBits Newsletter.
 
-Throughout my ~10 year career in Deep Learning and AI, working across Applied AI Research, Engineering and Operations I've gathered expert insights on what AI is and how to build reliable AI Systems.
+Throughout my ~10-year career in Deep Learning and AI, working across Applied AI Research, AI Engineering, and ML/LLM Operations, I've gathered practical knowledge on building reliable AI Systems.
+
+>[!TIP]
+> My main goal is to distill and share that with aspiring AI Engineers!
+
 
 <div style="background-color: #24C19620; border-radius:5px; display: flex; justify-content: left; width: 38em">
-    <p style="font-family: Work Sans;margin: 1em;font-weight: 500;"> <i class="fa-regular fa-comment"></i> My main goal is to distill and share that with aspiring AI Engineers! </p>
+    <p style="font-family: Work Sans;margin: 1em;font-weight: 500;"> <i class="fa-regular fa-comment"></i>  </p>
 </div>
 
-s
+</br>
+<h2>
+   <span><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/bookmark.svg" width="20px"/> </span> Easier Navigation
+</h2>
 
 
->#### How ? 
-
-
-
-<a  href="https://neuralbits.substack.com/subscribe"> Subscribe 🚀</a>
-<be>
-
-#### Categories
 **To ensure smooth navigation** throughout the repositories, check the following table: 🔽
 ##### Complete Courses
 | Topic | Description | Source |
