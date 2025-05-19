@@ -1,15 +1,16 @@
 <p align="center"><img src="https://raw.githubusercontent.com/neural-bits/.github/main/media/[Git][Blue][Banner][Center]-EmailHeader.png"></p>
 
 <div align="center">
-  <h1>Distilling years of building AI Systems in one place!</h1>
+  <h1>Hands-on learning, building AI Systems!</h1>
   <p><i> The best learning experience is by trying to build what you don't understand! </i></p>
-  <h3>This practical hub contains resources on building AI Systems for Cloud and Edge - the right way!</h3>
+  <h3>This practical hub is for AI/ML Engineers and Builders AI Systems for Cloud and Edge!</h3>
 </div>
 
 <div align="center">
   <a href="https://neuralbits.substack.com/"><img src="https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=gray" alt="Newsletter"></a>
-  <a href="https://www.linkedin.com/in/arazvant/"><img src="https://img.shields.io/static/v1?label&logo=linkedin&message=Message_Me&style=for-the-badge&color=blue" alt="Message Me"></a>
-  <a href="https://neuralbits.substack.com/p/courses"><img src="https://img.shields.io/static/v1?label&logo=youtube&message=Courses&style=for-the-badge&color=red" alt="Courses"></a>
+  <a href="https://www.linkedin.com/in/arazvant/"><img src="https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=blue" alt="Message Me"></a>
+  <a href="https://www.youtube.com/@neuralaibits"><img src="https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=red" alt="YouTube"></a>
+  <a href="https://neuralbits.substack.com/p/courses"><img src="https://img.shields.io/static/v1?label&logo=substack&message=Courses&style=for-the-badge&color=gray" alt="Courses"></a>
 </div>
 
 ---
@@ -19,15 +20,13 @@
 [Neural Bits](https://neuralbits.substack.com) addresses the AI/ML Engineering niche and is a useful resource for you if you're looking to build and understand complex AI Systems in a step-by-step manner.
 **The motivation is simple:**
 ```diff
-1. Many want to understand and build with AI.
-2. They search for resources to learn.
-- 3. They find a lot of basic-level resources and flashy AI news channels.
-4. They look for courses, tutorials.
-- 5. They find 1000$+ bootcamps from 1-year-of-experience experts in AI.
-6. They eventually find good resources.
-- 7. There's no one to guide them through and help them understand.
-+ 8. They find out about Neural Bits
-+ Now they can follow and code along complex AI Systems under a Senior AI Engineer's guidance!
+1. You want to build with AI.
+- 2. Hands-on resources are scarce.
+3. You look for books, courses, and tutorials.
+- 4. They are high-level, or pricey.
+5. You'll eventually find some resources.
+- 6. There's no one to explain it step by step.
++ 7. You came here
 ```
 </br>
 
