@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Welcome to Neural Bits</h1>
   <h3>The practical hub for AI Builders, helping you learn industry-level AI/ML Engineering the right way!</h3>
-  <p><i>Explore the complete Neural Bits ecosystem below:</i></p>
+  <p><i>To understand it, you have to build it!</i></p>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 The [Neural Bits](https://neuralbits.substack.com) initiative is dedicated to covering the AI/ML Engineering niche, with a sharp focus on unpacking every aspect of building robust, end-to-end AI Systems.
 
-</br> **Our motivation is clear:**
+</br> **The motivation is simple:**
 ```diff
 0. You want to become an AI Engineer.
 1. You want to learn and build with AI.
