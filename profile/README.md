@@ -28,7 +28,7 @@ The [Neural Bits](https://neuralbits.substack.com) initiative is dedicated to co
 - 4. They can be high-level, incomplete, or expensive.
 5. You eventually find some resources, but still hit roadblocks.
 - 6. There's no one truly guiding you step by step through complex implementations.
-+ 7. That's where Neural Bits comes in.
++ 7. You've found resources on Neural Bits
 ```
 </br>
 
@@ -82,9 +82,6 @@ This GitHub organization is a core part of the larger Neural Bits ecosystem, des
 | Computer Vision          | Projects on Computer Vision, including Object Detection, Object Segmentation, Classification and more | 🚀 [Computer Vision Hub](https://github.com/neural-bits/computer-vision-hub)    |
 | AI Programming Languages | Tutorials on AI Programming Languages (Mojo, Triton, JAX, JIT, Numba, Cython)                         | 🚀 [AI Programming Hub](https://github.com/neural-bits/ai-programming-hub)      |
 | MLOps                    | Practical MLOps applied to data-intensive deep learning systems                                       |                                                                                 |
-
-> [!NOTE]
-> Deep Learning Systems don't have to be complex, you just need the right resources -> get access to expert insights, bit by bit, week by week!
 
 **To stay up to date**:
 
