@@ -19,17 +19,6 @@
 
 The [Neural Bits](https://neuralbits.substack.com) initiative is dedicated to covering the AI/ML Engineering niche, with a sharp focus on unpacking every aspect of building robust, end-to-end AI Systems.
 
-</br> **The motivation is simple:**
-```diff
-0. You want to become an AI Engineer.
-1. You want to learn and build with AI.
-- 2. High-quality, hands-on resources are often scarce.
-3. You search for practical books, courses, and tutorials.
-- 4. They can be high-level, incomplete, or expensive.
-5. You eventually find some resources, but still hit roadblocks.
-- 6. There's no one truly guiding you step by step through complex implementations.
-+ 7. You've found resources on Neural Bits
-```
 </br>
 
 <h3> What Neural Bits Delivers </h3>
