@@ -17,7 +17,7 @@
 
 <h2><span><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/handshake.svg" width="30px"/></span> The Goal </h2>
 
-The [Neural Bits](https://neuralbits.substack.com) initiative is dedicated to covering the AI/ML Engineering niche, with a sharp focus on unpacking every aspect of building robust, end-to-end AI Systems.
+I built [Neural Bits](https://neuralbits.substack.com) to help AI/ML Engineers unpack every aspect of building robust, end-to-end AI Systems.
 
 </br>
 
