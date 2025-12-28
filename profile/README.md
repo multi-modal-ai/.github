@@ -74,8 +74,8 @@ These projects are designed as **complete systems**, not standalone examples.
 
 ## Stay Connected
 
-- 📬 Newsletter - https://multimodalai.substack.com  
-- 🎥 Videos - https://www.youtube.com/@neuralaibits  
+- 📬 Newsletter - https://read.theaimerge.com
+- 🎥 Videos - https://www.youtube.com/@theaimerge
 - 💬 LinkedIn - https://www.linkedin.com/in/arazvant  
 
 Most repositories are accompanied by long-form explanations and walkthroughs published alongside the code.
