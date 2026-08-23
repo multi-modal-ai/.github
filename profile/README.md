@@ -1,135 +1,97 @@
+<!--
+  Org profile README for github.com/the-ai-merge
+  Palette from theaimerge.com: cream #F8F6F2, charcoal #1C1B19, terracotta #D95319.
+  assets/header.svg and assets/footer.svg are hand-built — an animated grid of squares,
+  styled like a GitHub contribution graph, sweeping left-to-right in brand colors.
+  Self-hosted, no third-party generator. Bump the ?v= query after edits — raw.githubusercontent.com
+  caches aggressively and won't otherwise pick up changes.
+-->
+
 <p align="center">
-  <img width="2402" height="432" alt="The AI Merge GitHub banner" src="https://github.com/user-attachments/assets/aaec7984-b959-4e21-8d8d-300a93656cf4" />
+  <img src="./assets/header.svg?v=1" width="100%" alt="The AI Merge" />
 </p>
 
-<div align="center">
-  <h3>AI Engineering for Software Engineers</h3>
-  <p><i>Understand the systems behind modern AI. Build with them properly.</i></p>
-</div>
+<p align="center">
+<a href="https://theaimerge.com"><img src="https://img.shields.io/badge/theaimerge.com-D95319?style=flat-square&logoColor=F8F6F2" /></a>
+<a href="https://read.theaimerge.com"><img src="https://img.shields.io/badge/-Newsletter-1C1B19?style=flat-square&logo=substack&logoColor=F8F6F2" /></a>
+<a href="https://www.linkedin.com/in/arazvant/"><img src="https://img.shields.io/badge/-LinkedIn-1C1B19?style=flat-square&logo=linkedin&logoColor=F8F6F2" /></a>
+<a href="https://www.youtube.com/@theaimerge"><img src="https://img.shields.io/badge/-YouTube-1C1B19?style=flat-square&logo=youtube&logoColor=F8F6F2" /></a>
+</p>
 
-<div align="center"> 
-  <a href="https://theaimerge.com"> 
-    <img height="28" alt="The AI Merge" src="https://github.com/user-attachments/assets/ada74290-d201-4918-9737-d24cc75ef1c0" />
-  </a> 
-  <a href="https://read.theaimerge.com/"> 
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=gray" alt="Newsletter">
-  </a> 
-  <a href="https://www.linkedin.com/in/arazvant/"> 
-    <img src="https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=blue" alt="LinkedIn">
-  </a> 
-  <a href="https://www.youtube.com/@theaimerge">
-    <img src="https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=red" alt="YouTube">
-  </a> 
-</div>
-
-<br />
+<br/>
 
 The AI Merge helps software engineers build depth in modern AI engineering: models, agents, RAG, vision systems, inference, evals, monitoring, infrastructure, deployment, and AI-assisted engineering workflows.
 
-This GitHub organization is the code side of The AI Merge. It contains reference implementations, walkthrough repos, examples, and companion projects that show how AI components fit into software systems.
+This organization is the code side of it — reference implementations, walkthrough repos, and companion projects for what's covered on [theaimerge.com](https://theaimerge.com) and in [the newsletter](https://read.theaimerge.com), written by [Alex Razvant](https://github.com/arazvant).
 
----
+<br/>
 
-## What this is for
+### What's here
 
-These repos focus on the engineering around AI systems, especially the parts that matter when a prototype has to work in a real product:
+These repos focus on the engineering around AI systems — the parts that matter once a prototype has to work in a real product:
 
-- how models behave inside applications
-- how agents, tools, RAG, and multimodal systems are structured
-- how inference, latency, deployment, and infrastructure affect product decisions
-- how evals, monitoring, and reliability fit into the system
-- how software engineers can use coding agents without losing ownership of the codebase
+- How models behave inside applications
+- How agents, tools, RAG, and multimodal systems are structured
+- How inference, latency, deployment, and infrastructure affect product decisions
+- How evals, monitoring, and reliability fit into the system
+- How software engineers can use coding agents without losing ownership of the codebase
 
----
+<br/>
 
-## What you’ll find here
-
-- End-to-end AI system walkthroughs
-- Agents, MCP, A2A, RAG, vision, and multimodal examples
-- Inference, deployment, and infrastructure references
-- Evals, monitoring, and reliability patterns
-- AI-assisted engineering workflows
-- Course companion repositories
-- Practical examples connected to The AI Merge articles and visual guides
-
----
-
-<h2>Core areas</h2>
+### Core areas
 
 <table>
-  <tr>
-    <th align="left">Area</th>
-    <th align="left">What it covers</th>
-  </tr>
-  <tr>
-    <td><strong>AI foundations</strong></td>
-    <td>Model behavior, tokens, embeddings, attention, fine-tuning, hallucinations, and the fundamentals engineers need before building on top of models.</td>
-  </tr>
-  <tr>
-    <td><strong>AI systems</strong></td>
-    <td>RAG, agents, tools, vision, speech, multimodal applications, workflows, APIs, and product architecture.</td>
-  </tr>
-  <tr>
-    <td><strong>Deployment and infrastructure</strong></td>
-    <td>Cloud, edge, containers, queues, runtimes, inference engines, GPUs, latency, memory, batching, quantization, and cost tradeoffs.</td>
-  </tr>
-  <tr>
-    <td><strong>Evaluation and monitoring</strong></td>
-    <td>Test sets, regressions, traces, feedback loops, confidence gates, observability, and failure analysis.</td>
-  </tr>
-  <tr>
-    <td><strong>AI-assisted engineering</strong></td>
-    <td>Specs, coding agents, review loops, TDD, test harnesses, and workflows that keep engineers in control of the codebase.</td>
-  </tr>
+<tr><th align="left">Area</th><th align="left">What it covers</th></tr>
+<tr><td><b>AI foundations</b></td><td>Model behavior, tokens, embeddings, attention, fine-tuning, hallucinations — the fundamentals before building on top of models.</td></tr>
+<tr><td><b>AI systems</b></td><td>RAG, agents, tools, vision, speech, multimodal applications, workflows, APIs, product architecture.</td></tr>
+<tr><td><b>Deployment &amp; infrastructure</b></td><td>Cloud, edge, containers, queues, runtimes, inference engines, GPUs, latency, memory, batching, quantization, cost tradeoffs.</td></tr>
+<tr><td><b>Evaluation &amp; monitoring</b></td><td>Test sets, regressions, traces, feedback loops, confidence gates, observability, failure analysis.</td></tr>
+<tr><td><b>AI-assisted engineering</b></td><td>Specs, coding agents, review loops, TDD, test harnesses — workflows that keep engineers in control of the codebase.</td></tr>
 </table>
 
----
+<br/>
 
-<h2>Start here</h2>
+### Courses & larger projects
 
-<p>
-  <strong>The AI Merge</strong> is for software engineers who want to understand AI deeply enough to build with it, not just call an API and hope the output holds up.
+Built around complete AI systems, not isolated snippets.
+
+<table>
+<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Status</th></tr>
+<tr>
+<td><a href="https://github.com/the-ai-merge/multimodal-agents-course"><b>Kubrick</b></a></td>
+<td>An open-source MCP multimodal AI agent course — built with Miguel Otero Pedrido.</td>
+<td><a href="https://github.com/the-ai-merge/multimodal-agents-course"><img src="https://img.shields.io/github/stars/the-ai-merge/multimodal-agents-course?style=flat-square&color=1C1B19&labelColor=F8F6F2" /></a></td>
+</tr>
+<tr>
+<td><b>The AI Atlas</b></td>
+<td>A 220+ slide visual guide to the AI engineering field — diagrams, mental models, and system maps.</td>
+<td><a href="https://theaimerge.com"><b>Join waitlist</b></a></td>
+</tr>
+<tr>
+<td><b>MAVS</b></td>
+<td>A full-stack wildlife monitoring AI system — MLOps, LLMOps, agents, multimodal workflows, edge AI inference.</td>
+<td><a href="https://read.theaimerge.com"><b>Subscribe for updates</b></a></td>
+</tr>
+</table>
+
+<br/>
+
+### Start here
+
+<table>
+<tr><th align="left">Where</th><th align="left">What you get</th></tr>
+<tr><td><a href="https://theaimerge.com"><b>Website</b></a></td><td>The main hub for products, courses, visual guides, and current work.</td></tr>
+<tr><td><a href="https://read.theaimerge.com"><b>Newsletter</b></a></td><td>Field notes, technical breakdowns, and essays on AI engineering systems.</td></tr>
+<tr><td><a href="https://github.com/the-ai-merge"><b>Repositories</b></a></td><td>Reference code, examples, and implementation patterns.</td></tr>
+</table>
+
+<p align="center">
+<a href="https://theaimerge.com"><img src="https://img.shields.io/badge/theaimerge.com-D95319?style=for-the-badge&logoColor=F8F6F2" /></a>
+<a href="https://read.theaimerge.com"><img src="https://img.shields.io/badge/Join%2010%2C000%2B%20Engineers-1C1B19?style=for-the-badge" /></a>
 </p>
 
-<table>
-  <tr>
-    <th align="left">Where to start</th>
-    <th align="left">What you get</th>
-  </tr>
-  <tr>
-    <td><a href="https://theaimerge.com"><strong>Website</strong></a></td>
-    <td>The main hub for products, courses, visual guides, and current work.</td>
-  </tr>
-  <tr>
-    <td><a href="https://read.theaimerge.com/"><strong>Newsletter</strong></a></td>
-    <td>Field notes, technical breakdowns, and essays on AI engineering systems.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TheAIMerge"><strong>Repositories</strong></a></td>
-    <td>Reference code, examples, and implementation patterns.</td>
-  </tr>
-</table>
+<br/>
 
-<h2>Courses and larger projects</h2>
-
-<p>
-  These projects are built around complete AI systems, not isolated snippets or toy examples.
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">What it is</th>
-    <th align="left">Status</th>
-  </tr>
-  <tr>
-    <td><strong>The AI Atlas</strong></td>
-    <td>A 220+ page visual guide to the AI engineering field, with diagrams, mental models, and system maps for modern AI systems.</td>
-    <td><a href="https://theaimerge.com"><strong>Join waitlist</strong></a></td>
-  </tr>
-  <tr>
-    <td><strong>MAVS</strong></td>
-    <td>A course on building a full-stack wildlife monitoring AI system, covering MLOps, LLMOps, agents, multimodal workflows, and edge AI inference.</td>
-    <td><a href="https://read.theaimerge.com/"><strong>Subscribe for updates</strong></a></td>
-  </tr>
-</table>
