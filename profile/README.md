@@ -22,8 +22,6 @@
 
 The AI Merge helps software engineers build depth in modern AI engineering: models, agents, RAG, vision systems, inference, evals, monitoring, infrastructure, deployment, and AI-assisted engineering workflows.
 
-This organization is the code side of it — reference implementations, walkthrough repos, and companion projects for what's covered on [theaimerge.com](https://theaimerge.com) and in [the newsletter](https://read.theaimerge.com), written by [Alex Razvant](https://github.com/arazvant).
-
 <br/>
 
 ### What's here
@@ -69,7 +67,7 @@ Built around complete AI systems, not isolated snippets.
 </tr>
 <tr>
 <td><b>MAVS</b></td>
-<td>A full-stack wildlife monitoring AI system — MLOps, LLMOps, agents, multimodal workflows, edge AI inference.</td>
+<td>A full-stack wildlife monitoring AI system — MLOps, LLMOps, agents, multimodal workflows and edge AI inference.</td>
 <td><a href="https://read.theaimerge.com"><b>Subscribe for updates</b></a></td>
 </tr>
 </table>
